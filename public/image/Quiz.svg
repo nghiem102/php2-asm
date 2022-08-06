@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="142.036 72.837 175.289 101.036" width="175.289" height="101.036" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <style bx:fonts="Acme">@import url(https://fonts.googleapis.com/css2?family=Acme%3Aital%2Cwght%400%2C400&amp;display=swap);</style>
+  </defs>
+  <text style="fill: rgba(9, 84, 128, 0.85); font-family: Acme; font-size: 80px; letter-spacing: 6.8px; stroke-linecap: round; stroke-miterlimit: 14; text-transform: capitalize; word-spacing: -2.6px; white-space: pre;" x="142.036" y="149.694">Quiz</text>
+</svg>

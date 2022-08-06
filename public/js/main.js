@@ -1,0 +1,1 @@
+var get_title_meta = document.querySelector("#title_meta");
